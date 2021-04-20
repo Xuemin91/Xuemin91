@@ -8,24 +8,24 @@ Here are my experienced skills.
 
 **1. Web development**
 
- - Backend development
+ - Backend development<br>
   I'm experienced in building backend, especially RESTful APIs which can be consumed on frontend(web/mobile/desktop etc)
 
- - PHP (8+ years)
+ - PHP (8+ years)<br>
   I'm experienced in PHP and some frameworks like Laravel, CakePHP, CodeIgniter etc.
 
- - React.js (5+ years)
+ - React.js (5+ years)<br>
   I'm experienced in buildling web applications using React.js. react-redux is my one of the experienced features.
 
- - Python (3+ years)
+ - Python (3+ years)<br>
   Python is also my experienced development language and I have experience in building python applications.
 
 **2. Mobile development**
 
- - iOS development(3+ years)
+ - iOS development(3+ years)<br>
   I'm experienced in Objeective-C/C++, Swift to build iOS applications.
 
- - Android development(5+ years)
+ - Android development(5+ years)<br>
   I'm experienced in Java, Kotlin, Android NDK to embed c/c++ code into Android application.
 
 
